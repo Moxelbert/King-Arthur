@@ -1,0 +1,620 @@
+fileFormatVersion: 2
+guid: 9470913db3b7a9d4ba44aadc19f70260
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6955289506128545728
+    second: Uther_spritesheet_0
+  - first:
+      213: -2505815138796832246
+    second: Uther_spritesheet_1
+  - first:
+      213: 3954263066864481802
+    second: Uther_spritesheet_2
+  - first:
+      213: 821401934032830945
+    second: Uther_spritesheet_3
+  - first:
+      213: 2183892209638881980
+    second: Uther_spritesheet_4
+  - first:
+      213: -6643205974512093437
+    second: Uther_spritesheet_5
+  - first:
+      213: 944488987215185374
+    second: Uther_spritesheet_6
+  - first:
+      213: -759292360740827731
+    second: Uther_spritesheet_7
+  - first:
+      213: -5198138300367108520
+    second: Uther_spritesheet_8
+  - first:
+      213: 5205025298226058980
+    second: Uther_spritesheet_9
+  - first:
+      213: -7879250639078808426
+    second: Uther_spritesheet_10
+  - first:
+      213: 9103545919009360413
+    second: Uther_spritesheet_11
+  - first:
+      213: 8082784329906479837
+    second: Uther_spritesheet_12
+  - first:
+      213: 6546628565750278854
+    second: Uther_spritesheet_13
+  - first:
+      213: 4285421635417665967
+    second: Uther_spritesheet_14
+  - first:
+      213: 4213731491916252710
+    second: Uther_spritesheet_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Uther_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: -18}
+        - {x: -5, y: -18}
+        - {x: -9, y: -14}
+        - {x: -6, y: -7}
+        - {x: -11, y: -7}
+        - {x: -13, y: -5}
+        - {x: -13, y: 1}
+        - {x: -7.2035217, y: 4.8943176}
+        - {x: -7, y: 11}
+        - {x: 5, y: 12}
+        - {x: 6, y: 6}
+        - {x: 9, y: 0}
+        - {x: 12, y: -5}
+        - {x: 12, y: -12}
+        - {x: 7, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048b43d7b09d97f90800000000000000
+      internalID: -6955289506128545728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uther_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0af73b586e893dd0800000000000000
+      internalID: -2505815138796832246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uther_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0677e80f4d50e630800000000000000
+      internalID: 3954263066864481802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uther_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e188dff4b4366b00800000000000000
+      internalID: 821401934032830945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uther_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -13}
+        - {x: -9, y: -10}
+        - {x: -12, y: -6}
+        - {x: -6, y: 0}
+        - {x: -7, y: 6}
+        - {x: -7, y: 17}
+        - {x: 7, y: 17}
+        - {x: 6, y: 2}
+        - {x: 10, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbab447d46ebe4e10800000000000000
+      internalID: 2183892209638881980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uther_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -12}
+        - {x: -11, y: -12}
+        - {x: -14, y: -8}
+        - {x: -17, y: -6}
+        - {x: -18, y: 1}
+        - {x: -14, y: 4}
+        - {x: -10, y: 18}
+        - {x: 2, y: 17}
+        - {x: 2, y: 11}
+        - {x: 4, y: 7}
+        - {x: 5, y: -1}
+        - {x: 2, y: -6}
+        - {x: 6, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30734770d579ec3a0800000000000000
+      internalID: -6643205974512093437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uther_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 147
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2.5, y: -14}
+        - {x: -7.5, y: -13}
+        - {x: -8.5, y: -7}
+        - {x: -9.5, y: 2}
+        - {x: -7.5, y: 14}
+        - {x: 3.5, y: 15}
+        - {x: 5.5, y: 8}
+        - {x: 6.5, y: 4}
+        - {x: 10.5, y: 3}
+        - {x: 10, y: -1}
+        - {x: 10.5, y: -9}
+        - {x: 5.5, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5ca31dabf7b1d00800000000000000
+      internalID: 944488987215185374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uther_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -13}
+        - {x: -7, y: 5}
+        - {x: -5, y: 16}
+        - {x: 7, y: 16}
+        - {x: 10, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad006dee937675f0800000000000000
+      internalID: -759292360740827731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uther_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: -13}
+        - {x: -10, y: -9}
+        - {x: -5, y: 0}
+        - {x: -4, y: 18}
+        - {x: 8, y: 18}
+        - {x: 8, y: -3}
+        - {x: 11, y: -6}
+        - {x: 9, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8560449b1c08cd7b0800000000000000
+      internalID: -5198138300367108520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uther_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: -13}
+        - {x: -11, y: -5}
+        - {x: -16, y: 1}
+        - {x: -11, y: 8}
+        - {x: -9, y: 17}
+        - {x: 3, y: 17}
+        - {x: 4, y: 7}
+        - {x: 7, y: 1}
+        - {x: 3, y: -5}
+        - {x: 5, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e69fab6ee6fb3840800000000000000
+      internalID: 5205025298226058980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uther_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -12}
+        - {x: -10, y: -12}
+        - {x: -11, y: 1}
+        - {x: -9, y: 8}
+        - {x: -8, y: 18}
+        - {x: 4, y: 18}
+        - {x: 6, y: 8}
+        - {x: 12, y: 0}
+        - {x: 7, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69420713a4747a290800000000000000
+      internalID: -7879250639078808426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uther_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: -12}
+        - {x: -6, y: 2}
+        - {x: -5, y: 9}
+        - {x: -4, y: 19}
+        - {x: 9, y: 18}
+        - {x: 9, y: 8}
+        - {x: 12, y: -2}
+        - {x: 10, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a820bd7ca465e70800000000000000
+      internalID: 9103545919009360413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uther_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: -10}
+        - {x: -7, y: 0}
+        - {x: -4, y: 8}
+        - {x: -3, y: 18}
+        - {x: 8, y: 19}
+        - {x: 9, y: 5}
+        - {x: 11, y: -2}
+        - {x: 12, y: -10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd26b2c0681db2070800000000000000
+      internalID: 8082784329906479837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uther_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -13, y: -9}
+        - {x: -10, y: -2}
+        - {x: -14, y: 0}
+        - {x: -12, y: 8}
+        - {x: -10, y: 18}
+        - {x: 2, y: 18}
+        - {x: 6, y: 7}
+        - {x: 4, y: -2}
+        - {x: 6, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca68f9befb4ada50800000000000000
+      internalID: 6546628565750278854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uther_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: -9}
+        - {x: -9, y: 3}
+        - {x: -6, y: 19}
+        - {x: 8, y: 20}
+        - {x: 8, y: 9}
+        - {x: 12, y: -1}
+        - {x: 9, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1f7d3b540e87b30800000000000000
+      internalID: 4285421635417665967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uther_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: -9}
+        - {x: -2, y: -1}
+        - {x: -5, y: 6}
+        - {x: -3, y: 19}
+        - {x: 9, y: 19}
+        - {x: 10, y: 1}
+        - {x: 13, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6268b82777e2a7a30800000000000000
+      internalID: 4213731491916252710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

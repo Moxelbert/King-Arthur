@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: 77ecccb30535f9248b8de9fdd0619bb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8431393859218709828
+    second: fight_horizontal_0
+  - first:
+      213: -3078522926949046861
+    second: fight_horizontal_1
+  - first:
+      213: -4538844823815675043
+    second: fight_horizontal_2
+  - first:
+      213: -5512234127743741533
+    second: fight_horizontal_3
+  - first:
+      213: 620881857359771358
+    second: fight_horizontal_4
+  - first:
+      213: -1321833654118970424
+    second: fight_horizontal_5
+  - first:
+      213: -3001412779587842904
+    second: fight_horizontal_6
+  - first:
+      213: 3165724821317516212
+    second: fight_horizontal_7
+  - first:
+      213: -537819167988456107
+    second: fight_horizontal_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fight_horizontal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: -15}
+        - {x: -3, y: -9}
+        - {x: -5, y: -5}
+        - {x: -4, y: 0}
+        - {x: -4, y: 11}
+        - {x: 6, y: 12}
+        - {x: 8, y: 6}
+        - {x: 13, y: 10}
+        - {x: 15, y: 8}
+        - {x: 9, y: 0}
+        - {x: 9, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d14242b04520570800000000000000
+      internalID: 8431393859218709828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight_horizontal_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 86
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: -15}
+        - {x: -10, y: -9}
+        - {x: -5, y: -6}
+        - {x: -7, y: 2}
+        - {x: -11, y: 11}
+        - {x: -5, y: 13}
+        - {x: 6, y: 12}
+        - {x: 4, y: -7}
+        - {x: 8, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b56e4a65b3e645d0800000000000000
+      internalID: -3078522926949046861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight_horizontal_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -12}
+        - {x: -4, y: -7}
+        - {x: -2, y: -6}
+        - {x: -4, y: -2}
+        - {x: -14, y: 10}
+        - {x: -10.111795, y: 11.372307}
+        - {x: -5, y: 6}
+        - {x: -2, y: 7}
+        - {x: -4, y: 13}
+        - {x: 3, y: 16}
+        - {x: 8, y: 12}
+        - {x: 10, y: 2}
+        - {x: 10, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53a8d93ea8c201c0800000000000000
+      internalID: -4538844823815675043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight_horizontal_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 44
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -13}
+        - {x: -4, y: 16}
+        - {x: 7, y: 14}
+        - {x: 8, y: 7}
+        - {x: 19, y: 12}
+        - {x: 19, y: 9}
+        - {x: 14, y: 2}
+        - {x: 13, y: -1}
+        - {x: 7, y: -2}
+        - {x: 9, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a19c01144c9083b0800000000000000
+      internalID: -5512234127743741533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight_horizontal_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: -13}
+        - {x: -4, y: 0}
+        - {x: -2, y: 15}
+        - {x: 9, y: 14}
+        - {x: 11, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6f96b72c0dd9800800000000000000
+      internalID: 620881857359771358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fight_horizontal_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -13}
+        - {x: -3, y: -1}
+        - {x: -4, y: 14}
+        - {x: 6, y: 14}
+        - {x: 9, y: 2}
+        - {x: 18, y: -9}
+        - {x: 17, y: -11}
+        - {x: 9, y: -6}
+        - {x: 9, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb05128b47e7ade0800000000000000
+      internalID: -1321833654118970424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

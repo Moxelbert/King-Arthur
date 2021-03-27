@@ -1,0 +1,644 @@
+fileFormatVersion: 2
+guid: a6073c03411357541a4e8d085416b941
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4287702305068680489
+    second: Merlin_spritesheet_0
+  - first:
+      213: -8285705720806850552
+    second: Merlin_spritesheet_1
+  - first:
+      213: 6828819866539880189
+    second: Merlin_spritesheet_2
+  - first:
+      213: 5584618245178651900
+    second: Merlin_spritesheet_3
+  - first:
+      213: -5274589202493565844
+    second: Merlin_spritesheet_4
+  - first:
+      213: -5907805782626480009
+    second: Merlin_spritesheet_5
+  - first:
+      213: -9193585676276373099
+    second: Merlin_spritesheet_6
+  - first:
+      213: 4046310893369566572
+    second: Merlin_spritesheet_7
+  - first:
+      213: -584587489303696809
+    second: Merlin_spritesheet_8
+  - first:
+      213: 353093766722361425
+    second: Merlin_spritesheet_9
+  - first:
+      213: -5422611312883084270
+    second: Merlin_spritesheet_10
+  - first:
+      213: -5978780482855396876
+    second: Merlin_spritesheet_11
+  - first:
+      213: 8479210661523781407
+    second: Merlin_spritesheet_12
+  - first:
+      213: -1898481212234041226
+    second: Merlin_spritesheet_13
+  - first:
+      213: 3528332250494252457
+    second: Merlin_spritesheet_14
+  - first:
+      213: -7526472625550583041
+    second: Merlin_spritesheet_15
+  - first:
+      213: 8150293509504743060
+    second: Merlin_spritesheet_16
+  - first:
+      213: -5222972254113573770
+    second: Merlin_spritesheet_17
+  - first:
+      213: -1359347094469508604
+    second: Merlin_spritesheet_18
+  - first:
+      213: 6940914498565777722
+    second: Merlin_spritesheet_19
+  - first:
+      213: -5202733106212499473
+    second: Merlin_spritesheet_20
+  - first:
+      213: -2468008402727144508
+    second: Merlin_spritesheet_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Merlin_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 219
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9250e3c778af08b30800000000000000
+      internalID: 4287702305068680489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 218
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800c2e5eb82430d80800000000000000
+      internalID: -8285705720806850552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 218
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe6d3cec77d4ce50800000000000000
+      internalID: 6828819866539880189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 219
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4f90694bc808d40800000000000000
+      internalID: 5584618245178651900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 174
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c649249f015ecc6b0800000000000000
+      internalID: -5274589202493565844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 132
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770dc8c01f1430ea0800000000000000
+      internalID: -5907805782626480009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 92
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5996d618982d96080800000000000000
+      internalID: -9193585676276373099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 52
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65261ab152672830800000000000000
+      internalID: 4046310893369566572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 16
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a6ae796c023e7f0800000000000000
+      internalID: -584587489303696809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 53
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15814e9f8e076e400800000000000000
+      internalID: 353093766722361425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 51
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214d69cbdb30fb4b0800000000000000
+      internalID: -5422611312883084270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 51
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f99d59e3da170da0800000000000000
+      internalID: -5978780482855396876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1774dffb253ca570800000000000000
+      internalID: 8479210661523781407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 175
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6787904656d37a5e0800000000000000
+      internalID: -1898481212234041226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 173
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5b348ec7727f030800000000000000
+      internalID: 3528332250494252457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 174
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa1b5626099c8790800000000000000
+      internalID: -7526472625550583041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 131
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496b339c3c8ab1170800000000000000
+      internalID: 8150293509504743060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 130
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674d6d948664487b0800000000000000
+      internalID: -5222972254113573770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 130
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4028fab0501a22de0800000000000000
+      internalID: -1359347094469508604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 92
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a392f5f36f4135060800000000000000
+      internalID: 6940914498565777722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 91
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef0a0f1ecd2cc7b0800000000000000
+      internalID: -5202733106212499473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Merlin_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 91
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3f4cc0f6fdfbdd0800000000000000
+      internalID: -2468008402727144508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
